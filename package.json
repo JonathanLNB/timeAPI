@@ -1,0 +1,26 @@
+{
+  "name": "fechaapi",
+  "version": "1.0.0",
+  "description": "API para entregar la fecha a Luis",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon src/app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanLNB/timeAPI.git"
+  },
+  "author": "JonathanLNB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanLNB/timeAPI/issues"
+  },
+  "homepage": "https://github.com/JonathanLNB/timeAPI#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
